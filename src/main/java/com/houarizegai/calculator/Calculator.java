@@ -580,7 +580,7 @@ public class Calculator {
     };
 
     public static void main(String[] args) {
-        System.out.println("Changes from branch1");
+        System.out.println("Changes from branch1    ");
         new Calculator();
     }
 }
